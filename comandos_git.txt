@@ -4,3 +4,26 @@ git commit -m "msg" -> faz commit do que estava para ser editado
 git add nome_arquivo -> adicona aruqivo para ser comitado
 rm -rf -> remove de forma recursiva todos os diretórios
 git log -> mostra todo o histórico de commit
+
+
+## FLUXO DE TRABALHO
+
+1. Criar  o diretório do projeto
+2. iniciar o git git init . 
+3. Edita ou cria arquivos
+4. git status
+5. git add <nome arquivo>
+6. git status
+7. git commit -m "mensagem"
+8. git status
+9. volta para o passo 3.
+
+
+git diff - saber a diferença do estado atual do seu arquivo para em relação ao comando anterior
+
+
+
+
+
+
+
